@@ -1,0 +1,82 @@
+body {
+    font-family: "Open Sans";
+}
+
+.navbar {
+    border-bottom: 2px #006699 solid;
+    background-color: #111 !important;
+}
+
+.jumbotron {
+    background: url(../img/vincent-chin-325799-unsplash.jpg);
+    min-height: 420px;
+    background-size: cover;
+    background-position: bottom;
+    border-radius: 0 !important;
+}
+
+.navbar-brand,
+.display-3,
+h1,
+h2,
+h3 {
+    font-family: "PT Serif";
+    font-weight: 700;
+}
+
+h2 {
+    border-bottom: 2px #006699 solid;
+}
+
+h4 {
+    color: #006699;
+    font-weight: 300;
+}
+
+.book-cover a:hover {
+    background: #eee;
+}
+
+.main-title,
+.sub-title {
+    text-shadow: 2px 2px 5px black;
+}
+
+.sub-title {
+    font-family: "PT Serif";
+    font-weight: 400;
+    font-style: italic;
+    color: #fff;
+}
+
+.book-title {
+    font-size: 2.4rem;
+}
+
+.book-reviews cite {
+    color: #006699;
+}
+
+#musings {
+    background: url("../img/jason-blackeye-213258-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#musings a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#musings a:hover {
+    color: #ccc;
+}
+
+.musings-text {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#mainFooter {
+    background-color: #111;
+    border-top: 2px #069 solid;
+}

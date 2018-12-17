@@ -8,7 +8,7 @@ body {
 }
 
 .jumbotron {
-    background: url(../img/vincent-chin-325799-unsplash.jpg);
+    background: url("../img/vincent-chin-325799-unsplash-min.jpg");
     min-height: 420px;
     background-size: cover;
     background-position: bottom;
@@ -58,7 +58,7 @@ h4 {
 }
 
 #musings {
-    background: url("../img/jason-blackeye-213258-unsplash.jpg");
+    background: url("../img/jason-blackeye-213258-unsplash-min.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }

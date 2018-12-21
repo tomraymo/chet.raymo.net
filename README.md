@@ -1,4 +1,4 @@
-# chet.raymo.net
+# www.chetraymo.com
 
 Author page for Chet Raymo.
 
